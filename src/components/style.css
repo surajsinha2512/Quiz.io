@@ -1,0 +1,26 @@
+
+.country{
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding:2px;
+    margin:10px; 
+    margin-bottom: 5px;
+    width:50%;
+   
+}
+
+.weather{
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding:2px;
+    margin:10px; 
+}
+.img{
+    position:relative;
+    top:1px;
+    right:1px;
+}
+
+.round{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
