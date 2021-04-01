@@ -1,4 +1,3 @@
-#https://surajsinha2512.github.io/ginete.io/
 
 Hosted Link
 # Getting Started with Create React App
