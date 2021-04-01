@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Quiz.io/static/css/main.55fe5426.chunk.css",
-    "main.js": "/Quiz.io/static/js/main.6b53fe4f.chunk.js",
-    "main.js.map": "/Quiz.io/static/js/main.6b53fe4f.chunk.js.map",
-    "runtime-main.js": "/Quiz.io/static/js/runtime-main.eb63ae38.js",
-    "runtime-main.js.map": "/Quiz.io/static/js/runtime-main.eb63ae38.js.map",
-    "static/css/2.150d169a.chunk.css": "/Quiz.io/static/css/2.150d169a.chunk.css",
-    "static/js/2.b68870e1.chunk.js": "/Quiz.io/static/js/2.b68870e1.chunk.js",
-    "static/js/2.b68870e1.chunk.js.map": "/Quiz.io/static/js/2.b68870e1.chunk.js.map",
-    "index.html": "/Quiz.io/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/Quiz.io/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.55fe5426.chunk.css.map": "/Quiz.io/static/css/main.55fe5426.chunk.css.map",
-    "static/js/2.b68870e1.chunk.js.LICENSE.txt": "/Quiz.io/static/js/2.b68870e1.chunk.js.LICENSE.txt"
+    "main.css": "/capitalWeather.io/static/css/main.55fe5426.chunk.css",
+    "main.js": "/capitalWeather.io/static/js/main.6b53fe4f.chunk.js",
+    "main.js.map": "/capitalWeather.io/static/js/main.6b53fe4f.chunk.js.map",
+    "runtime-main.js": "/capitalWeather.io/static/js/runtime-main.a245ff62.js",
+    "runtime-main.js.map": "/capitalWeather.io/static/js/runtime-main.a245ff62.js.map",
+    "static/css/2.150d169a.chunk.css": "/capitalWeather.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.b68870e1.chunk.js": "/capitalWeather.io/static/js/2.b68870e1.chunk.js",
+    "static/js/2.b68870e1.chunk.js.map": "/capitalWeather.io/static/js/2.b68870e1.chunk.js.map",
+    "index.html": "/capitalWeather.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/capitalWeather.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.55fe5426.chunk.css.map": "/capitalWeather.io/static/css/main.55fe5426.chunk.css.map",
+    "static/js/2.b68870e1.chunk.js.LICENSE.txt": "/capitalWeather.io/static/js/2.b68870e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb63ae38.js",
+    "static/js/runtime-main.a245ff62.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b68870e1.chunk.js",
     "static/css/main.55fe5426.chunk.css",
